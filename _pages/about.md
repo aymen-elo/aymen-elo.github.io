@@ -6,6 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final year, Master of Engineering Student in Computer Science, doing an Apprenticeship at AXA Investment Managers.
+I am a final year, Master of Engineering Student in Computer Science at CESI École d'ingénieurs, doing an Apprenticeship as a Software Analyst at AXA Investment Managers.
 
-Alongside that I have the opportunity to do a 5-week research internship, in which I want to focus on Machine Learning.
+I have the opportunity to do a 5-week research internship, which I want to do in Machine Learning.
